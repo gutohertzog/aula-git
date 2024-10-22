@@ -1,2 +1,5 @@
 # aula-git
-Repositório para a aula de Git
+
+Repositório pra a aula de Git
+
+mais um paragrafo
